@@ -17,5 +17,8 @@
     "client": [
       "com.github.voxxin.shp.ScreenHelperAPI"
     ]
-  }
+  },
+  "mixins": [
+    "screenhelperapi.mixins.json"
+  ]
 }
