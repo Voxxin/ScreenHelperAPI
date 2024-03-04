@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "screenhelperapi",
+  "version": "${version}",
+  "name": "ScreenHelperAPI",
+  "description": "",
+  "authors": [
+    "ella",
+    "KaiAF"
+  ],
+  "contact": {
+    "repo": "https://github.com/voxxin/ScreenHelperAPI"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.github.voxxin.shp.ScreenHelperAPI"
+    ]
+  }
+}
